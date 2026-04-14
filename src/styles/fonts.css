@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+@import url('https://cdn.jsdelivr.net/gh/sunn-us/SUIT/fonts/static/woff2/SUIT.css');
+@import url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2205-2@1.0/GmarketSansMedium.woff2');
+
+@font-face {
+  font-family: 'GC Allio';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2302@1.0/GCAllio.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
